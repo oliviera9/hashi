@@ -95,6 +95,7 @@
   "dependencies": {
     "@connext/interfaces": "^2.0.0",
     "@gnosis.pm/zodiac": "^3.3.2",
+    "@openzeppelin/contracts": "^4.8.1",
     "@openzeppelin/contracts-upgradeable": "^4.8.1",
     "hardhat-change-network": "^0.0.7",
     "hardhat-deploy": "^0.11.31",
